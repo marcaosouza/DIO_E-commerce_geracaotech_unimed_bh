@@ -3,13 +3,13 @@
 </h1>
 
 <h2 align="center">
-  <img src="./assets/database-experience.webp" width="260px">
+  <img src="./assets/database-experience.webp" width="250px">
 </h2>
 
 <p align="center">
-  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">📝 License</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license"> License</a>
 </p>
 
 
@@ -32,7 +32,7 @@ Projeto criado para o curso "Database Experience" da DIO.
   - Modelo EER
 - MongoDB
 
-## 📝 License
+## License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
